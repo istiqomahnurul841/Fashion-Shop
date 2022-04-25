@@ -1,8 +1,8 @@
 ## Welcome to Fashion Shop
 
-Menyediakan berbagai garment seperti kaos, polo, kemeja, jaket, jersey, almamater, seragam, wearpack, rompi dan produk custom lainnya untuk berbagai kalangan seperti perusahaan, komunitas, event, sekolah, kampus atau distro. [Konveksi Jakarta](https://finestgarment.com/) to maintain and preview the content for your website in Markdown files.
+Menyediakan berbagai garment seperti kaos, polo, kemeja, jaket, jersey, almamater, seragam, wearpack, rompi dan produk custom lainnya untuk berbagai kalangan seperti perusahaan, komunitas, event, sekolah, kampus atau distro. [Konveksi Jakarta](https://finestgarment.com/) yang senantiasa memberikan kebebasan kepada client/pelanggan menentukan desain, warna dan bahan sesuai dengan budget.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) yang senantiasa memberikan kebebasan kepada client/pelanggan menentukan desain, warna dan bahan sesuai dengan budget.
+Finest Garment memiliki beberapa kantor cabang di kota-kota besar seperti Jakarta, Surabaya, Bandung, Bali, dan Malang. Kami senantiasa memberikan kebebasan kepada client/pelanggan menentukan desain, warna dan bahan sesuai dengan budget.
 
 ### About Konveksi Jakarta
 

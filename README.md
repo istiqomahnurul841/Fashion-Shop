@@ -14,13 +14,3 @@ Team Berpengalaman: Tim profesional untuk mengerjakan proyek dengan hasil terbai
 Pilihan Terbaik untuk segala macam proyek konveksi anda
 Pengiriman barang menjangkau seluruh Indonesia
 Fokus berinovasi mengembangkan layanan dan produk
-
-### OUR PRODUCT
-[Image](https://finestgarment.com/wp-content/uploads/2020/02/konveksi-kemeja-custom-jakarta-08.jpg)
-
-[Image](https://finestgarment.com/wp-content/uploads/2021/12/Lengan-Raglan.jpg)
-
-[Image](https://finestgarment.com/wp-content/uploads/2021/12/Lacoste-CVC-Kancing-3.jpg)
-
-[Image](https://finestgarment.com/wp-content/uploads/2021/11/konveksi-jaket-bali-murah-07-1.jpg)
-

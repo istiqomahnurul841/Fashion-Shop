@@ -15,30 +15,12 @@ Pilihan Terbaik untuk segala macam proyek konveksi anda
 Pengiriman barang menjangkau seluruh Indonesia
 Fokus berinovasi mengembangkan layanan dan produk
 
-```markdown
-Syntax highlighted code block
+### OUR PRODUCT
+[Image](https://finestgarment.com/wp-content/uploads/2020/02/konveksi-kemeja-custom-jakarta-08.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+[Image](https://finestgarment.com/wp-content/uploads/2021/12/Lengan-Raglan.jpg)
 
-- Bulleted
-- List
+[Image](https://finestgarment.com/wp-content/uploads/2021/12/Lacoste-CVC-Kancing-3.jpg)
 
-1. Numbered
-2. List
+[Image](https://finestgarment.com/wp-content/uploads/2021/11/konveksi-jaket-bali-murah-07-1.jpg)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/istiqomahnurul841/Fashion-Shop/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

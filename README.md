@@ -1,12 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Fashion Shop
 
-You can use the [editor on GitHub](https://github.com/istiqomahnurul841/Fashion-Shop/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Menyediakan berbagai garment seperti kaos, polo, kemeja, jaket, jersey, almamater, seragam, wearpack, rompi dan produk custom lainnya untuk berbagai kalangan seperti perusahaan, komunitas, event, sekolah, kampus atau distro. [Konveksi Jakarta](https://finestgarment.com/) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) yang senantiasa memberikan kebebasan kepada client/pelanggan menentukan desain, warna dan bahan sesuai dengan budget.
 
-### Markdown
+### About Konveksi Jakarta
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**KENAPA MEMILIH FINEST GARMENT ?**
+
+Selama 4 tahun berdiri 150.000++ potong baju telah diproduksi dan 5000++ kontrak telah terjalin
+
+Team Berpengalaman: Tim profesional untuk mengerjakan proyek dengan hasil terbaik dan memuaskan
+Pilihan Terbaik untuk segala macam proyek konveksi anda
+Pengiriman barang menjangkau seluruh Indonesia
+Fokus berinovasi mengembangkan layanan dan produk
 
 ```markdown
 Syntax highlighted code block
